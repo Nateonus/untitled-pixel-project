@@ -1,16 +1,16 @@
 # Untitled Pixel Project Docs
 
-##Eh?
+## Eh?
 This currently-untitled project is a new program designed to help everyone create 2D art assets.
 
 With a simple set of tools, the program allows users to place down specific pre-made vector shapes, and export them as vector or image files.
 
 [Image](shapes.png)
 
-##Shapes
+## Shapes
 The program comes with some useful pre-existing shapes. These are defined in SVG files that are included within the program. 
 
-###Creating new shapes
+### Creating new shapes
 To create a new shape, firstly use one of the existing shape files as a template. These can be found at: (ProjectPath)/Project_Data/StreamingAssets/Vector Shapes. Copy and paste one of the existing files, and give it a unique name.
 
 To edit SVG files, I recommend the use of Inkscape, a free vector editor. 
