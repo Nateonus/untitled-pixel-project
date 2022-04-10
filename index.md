@@ -1,14 +1,20 @@
 # Untitled Pixel Project Docs
 
 ## Eh?
-This currently-untitled project is a new program designed to help everyone create 2D art assets.
-
+This currently-untitled project is a new program designed to help everyone create 2D art assets, in both pixel art or HD vectors.
 With a simple set of tools, the program allows users to place down specific pre-made vector shapes, and export them as vector or image files.
 
-[Image](shapes.png)
+## Exporting
+Created images can be exported at nearly any resolution. Simply input how many pixels each grid tile is worth, and the program will export an image file at that resolution. Edge smoothing can be enabled or disabled.
+
+![Image](exportshowcase.png) 
+
+_A showcase of 3 types of export on an extremely simple image. Left - Tile size: 32, AA: Enabled. Middle - Tile size: 8, AA: Enabled. Right - Tile size: 8, AA: Disabled. _
 
 ## Shapes
 The program comes with some useful pre-existing shapes. These are defined in SVG files that are included within the program. 
+
+![Image](shapes.png)
 
 ### Creating new shapes
 To create a new shape, firstly use one of the existing shape files as a template. These can be found at: (ProjectPath)/Project_Data/StreamingAssets/Vector Shapes. Copy and paste one of the existing files, and give it a unique name.
